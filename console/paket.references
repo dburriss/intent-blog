@@ -1,0 +1,6 @@
+FSharp.Core
+Microsoft.Data.SQLite
+Dapper
+Microsoft.Azure.Storage.Common
+Microsoft.Azure.Storage.Queue
+Newtonsoft.Json

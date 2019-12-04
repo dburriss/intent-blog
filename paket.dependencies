@@ -1,0 +1,9 @@
+source https://www.nuget.org/api/v2
+
+nuget FSharp.Core
+nuget Microsoft.Azure.Storage.Common
+nuget Microsoft.Azure.Storage.Queue
+nuget Microsoft.Data.SQLite 3.0.1
+nuget Microsoft.Data.SQLite.Core 3.0.1
+nuget Dapper
+nuget Newtonsoft.Json
